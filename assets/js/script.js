@@ -15,7 +15,8 @@ function handleSubmit(event){
         :(66 + (13.7 * weight) + (5 * height) - (3.8 * age))
     );    
     const maintenance = Math.round((tmb * Number(activityLevel)))
-
+    const loseWeight= maintenance - 450;
+    
 
 
 }
