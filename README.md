@@ -1,6 +1,6 @@
 # getkcal
 
-Estes são os arquivos iniciais do projeto **getkcal** disponível no YouTube.
+Esta aplicação foi desenvolvida para calcular as calorias de acordo com o seu objetivo.
 
 ## Instalação
 
